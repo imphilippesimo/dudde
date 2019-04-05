@@ -1,6 +1,5 @@
-# dudde
+# Hey!, i'm dudde, your presonal diet helper.
 
-Diet helper
 
 ## Getting Started
 
